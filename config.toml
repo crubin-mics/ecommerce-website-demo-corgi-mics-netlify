@@ -1,8 +1,8 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Awesome Lighting Inc."
+title = "Corgi Mics Inc."
 theme = "hugo-shopping-product-catalogue-simple"
 themesDir = "./themes"
 [Params]
 description = ""
-GTMTAGID="GoogleAnalytics"
+GTMTAGID="GTM-M4VVZ55Q"
