@@ -1,14 +1,16 @@
 {
-    "title": "Corgi",
-    "date": "2018-05-12T15:48:00+05:30",
-    "tags": ["Dog", "Bark"],
-    "categories": ["Dog"],
-    "images": ["https://www.zooplus.fr/magazine/wp-content/uploads/2023/05/corgi-1.jpeg"],
-    "thumbnailImage": "https://www.zooplus.fr/magazine/wp-content/uploads/2023/05/corgi-1.jpeg",
-    "actualPrice": "₹ 42,011.00",
+    "title": "Cardigan Welsh Corgi",
+    "date": "2024-01-12T15:48:00+05:30",
+    "tags": ["Dog", "Bark", "Corgi"],
+    "categories": ["Dog", "Corgi"],
+    "images": ["https://image.petmd.com/files/styles/978x550/public/2023-10/cardigan-welsh-corgi.jpg?w=1080&q=75"],
+    "thumbnailImage": "https://image.petmd.com/files/styles/978x550/public/2023-10/cardigan-welsh-corgi.jpg?w=1080&q=75",
+    "actualPrice": "₹ 47,069.00",
     "comparePrice": null,
     "inStock": true,
-    "options": {},
+    "options": {
+        "Gender" : ["Male", "Female"]
+    },
     "variants": []
 }
 

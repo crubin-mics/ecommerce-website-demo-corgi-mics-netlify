@@ -8,7 +8,10 @@
     "actualPrice": "₹ 29,699.00",
     "comparePrice": null,
     "inStock": true,
-    "options": {},
+    "options": {
+        "Gender" : ["Male", "Female"],
+        "Color" : ["White", "Cream", "Brown"]
+    },
     "variants": []
 }
 
