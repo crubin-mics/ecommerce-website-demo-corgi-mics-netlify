@@ -14,34 +14,34 @@
     "variants": []
 }
 
-### Product Presentation: Corgi
+### Product Presentation: Cardigan Welsh Corgi
 
 ---
 
-**🐾 Meet Your New Best Friend: The Corgi! 🐶**
+**🐾 Meet Your New Loyal Companion: The Cardigan Welsh Corgi! 🐶**
 
 **Description:**
-Bring home the joy and charm of a Corgi! Known for their adorable short legs and fluffy tails, Corgis are the perfect companions for families, singles, and seniors alike. With their playful nature and loving disposition, these dogs are sure to brighten your day.
+The Cardigan Welsh Corgi is a charming and intelligent breed known for its affectionate nature and distinctive appearance. With a long history as a herding dog, this breed is celebrated for its loyalty, versatility, and playful spirit, making them excellent companions for families and individuals alike.
 
 **Key Features:**
--  **Temperament:** Friendly, intelligent, and eager to please. Corgis are great with children and other pets.
--  **Size:** Compact and sturdy, typically weighing between 10-14 kg.
--  **Coat:** Thick and weather-resistant, requiring regular grooming to keep them looking their best.
--  **Exercise Needs:** Energetic and playful, they enjoy daily walks and playtime.
+-       **Temperament:** Friendly, alert, and affectionate. Cardigan Welsh Corgis are known for their loyal and loving nature, forming strong bonds with their families.
+-       **Size:** Small to medium, typically weighing between 11-17 kg.
+-       **Coat:** Thick and weather-resistant, with a soft undercoat. Regular grooming is essential to keep their coat healthy and manage shedding.
+-       **Exercise Needs:** Moderately active, they enjoy daily walks, playtime, and mental stimulation to keep them happy and engaged.
 
-**Why Choose a Corgi?**
--  **Loyal Companionship:** Corgis are known for their loyalty and affection towards their owners.
--  **Trainability:** Highly intelligent and responsive to training, making them great for first-time dog owners.
--  **Unique Appearance:** Their distinctive look and cheerful personality make them a standout breed.
+**Why Choose a Cardigan Welsh Corgi?**
+-       **Intelligent and Trainable:** Cardigans are quick learners and excel in obedience training, making them suitable for both novice and experienced dog owners.
+-       **Versatile Companionship:** Originally bred for herding, they adapt well to various roles, including family pets and therapy dogs, thanks to their friendly and outgoing nature.
+-       **Playful and Fun-Loving:** Their playful spirit and love for interaction make them great companions for children and families, ensuring endless fun and joy.
 
 **Adoption Information:**
--  **Age:** Varies (puppies and adults available)
--  **Health Check:** All Corgis come with a health guarantee and have been vaccinated and microchipped.
--  **Adoption Fee:** €300, which includes initial vaccinations and a starter kit.
+-       **Age:** Varies (puppies and adults available)
+-       **Health Check:** All Cardigan Welsh Corgis come with a health guarantee and have been vaccinated and microchipped.
+-       **Adoption Fee:** €350, which includes initial vaccinations and a starter kit.
 
 **Get Yours Today!**
-Don’t miss the chance to welcome a Corgi into your home. Experience endless love and joy with this extraordinary breed!
+Don’t miss the chance to welcome a Cardigan Welsh Corgi into your home. Experience the joy, loyalty, and playful spirit of this delightful breed!
 
 ---
 
-**Order Now and Start Your Corgi Adventure!** 🐕❤️
+**Order Now and Start Your Cardigan Welsh Corgi Adventure!** 🐕❤️

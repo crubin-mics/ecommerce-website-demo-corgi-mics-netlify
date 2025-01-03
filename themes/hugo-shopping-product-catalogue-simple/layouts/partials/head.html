@@ -1,9 +1,19 @@
 <meta charset="utf-8">
 {{ with .Title }}<title>{{ . }}</title>{{ end }}
-{{ with .Site.Params.description }}
-<meta name="description" content="{{ . }}">{{ end }}
+{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 <meta name="robots" content="all,follow">
 <meta name="googlebot" content="index,follow,snippet,archive">
+<!-- Data Layer Setup -->
+{{ if .Params.title }}
+<script>
+    window.dataLayer = window.dataLayer || [];
+    
+    dataLayer.push({
+        'event': 'ProductView',
+        'productName': {{ .Params.title }}
+    });
+</script>
+{{ end }}
 <!-- Google Tag Manager -->
 <script>(function (w, d, s, l, i) {
         w[l] = w[l] || []; w[l].push({
