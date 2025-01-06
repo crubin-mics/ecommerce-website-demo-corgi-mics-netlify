@@ -10,7 +10,8 @@
     
     dataLayer.push({
         'event': 'ProductView',
-        'productName': {{ .Params.title }}
+        'productName': {{ .Params.title }},
+        'categories': {{ .Params.categories }}
     });
 </script>
 {{ end }}
