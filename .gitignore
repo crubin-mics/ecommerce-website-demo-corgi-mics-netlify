@@ -1,0 +1,19 @@
+# Hugo build output
+/public/
+/resources/
+
+# Hugo cache
+/.hugo_build.lock
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Netlify
+.netlify/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
